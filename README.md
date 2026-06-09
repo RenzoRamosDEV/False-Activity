@@ -10,3 +10,7 @@ Línea añadida en el registro 8820
 ## Nota 720
 
 Actualización de pedidos.
+
+## Nota 870
+
+Actualización de registros.
