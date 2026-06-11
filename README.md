@@ -14,3 +14,8 @@ Actualización de pedidos.
 ## Nota 870
 
 Actualización de registros.
+Línea añadida en el registro 7576
+
+## Nota 104
+
+Actualización de sesiones.
