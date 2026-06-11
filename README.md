@@ -14,3 +14,4 @@ Actualización de pedidos.
 ## Nota 870
 
 Actualización de registros.
+Línea añadida en el registro 7576
