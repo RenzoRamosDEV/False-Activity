@@ -19,3 +19,7 @@ Línea añadida en el registro 7576
 ## Nota 104
 
 Actualización de sesiones.
+
+## Nota 204
+
+Actualización de catalogo.
