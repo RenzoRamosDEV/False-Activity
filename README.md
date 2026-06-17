@@ -27,3 +27,7 @@ Actualización de catalogo.
 ## Nota 475
 
 Actualización de ajustes.
+
+## Nota 771
+
+Actualización de sesiones.
