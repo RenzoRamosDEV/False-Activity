@@ -31,3 +31,7 @@ Actualización de ajustes.
 ## Nota 771
 
 Actualización de sesiones.
+
+## Nota 559
+
+Actualización de inventario.
