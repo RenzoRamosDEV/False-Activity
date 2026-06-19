@@ -43,3 +43,7 @@ Actualización de usuarios.
 ## Nota 901
 
 Actualización de informes.
+
+## Nota 187
+
+Actualización de plantillas.
