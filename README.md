@@ -35,3 +35,7 @@ Actualización de sesiones.
 ## Nota 559
 
 Actualización de inventario.
+
+## Nota 291
+
+Actualización de usuarios.
