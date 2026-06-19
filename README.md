@@ -39,3 +39,7 @@ Actualización de inventario.
 ## Nota 291
 
 Actualización de usuarios.
+
+## Nota 901
+
+Actualización de informes.
