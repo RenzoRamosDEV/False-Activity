@@ -51,3 +51,13 @@ Actualización de plantillas.
 ## Nota 425
 
 Actualización de registros.
+
+## Nota 65
+
+Actualización de pedidos.
+Línea añadida en el registro 3135
+
+## Nota 410
+
+Actualización de metricas.
+Línea añadida en el registro 9119
