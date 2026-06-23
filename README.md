@@ -51,3 +51,7 @@ Actualización de plantillas.
 ## Nota 425
 
 Actualización de registros.
+
+## Nota 65
+
+Actualización de pedidos.
