@@ -61,3 +61,7 @@ Línea añadida en el registro 3135
 
 Actualización de metricas.
 Línea añadida en el registro 9119
+
+## Nota 561
+
+Actualización de usuarios.
