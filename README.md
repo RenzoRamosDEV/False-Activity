@@ -69,3 +69,7 @@ Actualización de usuarios.
 ## Nota 791
 
 Actualización de recursos.
+
+## Nota 190
+
+Actualización de registros.
