@@ -73,3 +73,7 @@ Actualización de recursos.
 ## Nota 190
 
 Actualización de registros.
+
+## Nota 963
+
+Actualización de sesiones.
