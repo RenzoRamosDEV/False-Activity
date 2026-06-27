@@ -77,3 +77,7 @@ Actualización de registros.
 ## Nota 963
 
 Actualización de sesiones.
+
+## Nota 602
+
+Actualización de informes.
