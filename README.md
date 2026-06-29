@@ -94,3 +94,7 @@ Actualización de registros.
 ## Nota 559
 
 Actualización de pedidos.
+
+## Nota 757
+
+Actualización de sesiones.
