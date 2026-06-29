@@ -90,3 +90,7 @@ Línea añadida en el registro 5782
 ## Nota 365
 
 Actualización de registros.
+
+## Nota 559
+
+Actualización de pedidos.
