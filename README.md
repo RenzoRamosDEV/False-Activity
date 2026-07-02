@@ -98,3 +98,7 @@ Actualización de pedidos.
 ## Nota 757
 
 Actualización de sesiones.
+
+## Nota 178
+
+Actualización de plantillas.
