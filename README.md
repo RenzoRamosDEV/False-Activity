@@ -102,3 +102,7 @@ Actualización de sesiones.
 ## Nota 178
 
 Actualización de plantillas.
+
+## Nota 666
+
+Actualización de plantillas.
