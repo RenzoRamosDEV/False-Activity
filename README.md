@@ -110,3 +110,7 @@ Actualización de plantillas.
 ## Nota 947
 
 Actualización de plantillas.
+
+## Nota 938
+
+Actualización de alertas.
