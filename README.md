@@ -106,3 +106,15 @@ Actualización de plantillas.
 ## Nota 666
 
 Actualización de plantillas.
+
+## Nota 947
+
+Actualización de plantillas.
+
+## Nota 938
+
+Actualización de alertas.
+
+## Nota 474
+
+Actualización de metricas.
