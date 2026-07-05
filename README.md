@@ -118,3 +118,7 @@ Actualización de alertas.
 ## Nota 474
 
 Actualización de metricas.
+
+## Nota 969
+
+Actualización de pedidos.
