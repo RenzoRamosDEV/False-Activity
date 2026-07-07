@@ -122,3 +122,7 @@ Actualización de metricas.
 ## Nota 969
 
 Actualización de pedidos.
+
+## Nota 173
+
+Actualización de plantillas.
