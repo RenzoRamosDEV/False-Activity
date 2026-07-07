@@ -122,3 +122,15 @@ Actualización de metricas.
 ## Nota 969
 
 Actualización de pedidos.
+
+## Nota 173
+
+Actualización de plantillas.
+
+## Nota 569
+
+Actualización de inventario.
+
+## Nota 331
+
+Actualización de informes.
