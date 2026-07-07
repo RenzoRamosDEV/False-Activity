@@ -130,3 +130,7 @@ Actualización de plantillas.
 ## Nota 569
 
 Actualización de inventario.
+
+## Nota 331
+
+Actualización de informes.
