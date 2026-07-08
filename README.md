@@ -134,3 +134,7 @@ Actualización de inventario.
 ## Nota 331
 
 Actualización de informes.
+
+## Nota 441
+
+Actualización de catalogo.
