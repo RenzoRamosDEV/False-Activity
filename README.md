@@ -138,3 +138,7 @@ Actualización de informes.
 ## Nota 441
 
 Actualización de catalogo.
+
+## Nota 623
+
+Actualización de pedidos.
