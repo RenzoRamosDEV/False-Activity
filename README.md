@@ -142,3 +142,7 @@ Actualización de catalogo.
 ## Nota 623
 
 Actualización de pedidos.
+
+## Nota 77
+
+Actualización de inventario.
