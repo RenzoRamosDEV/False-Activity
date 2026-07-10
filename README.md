@@ -146,3 +146,7 @@ Actualización de pedidos.
 ## Nota 77
 
 Actualización de inventario.
+
+## Nota 935
+
+Actualización de plantillas.
