@@ -154,3 +154,7 @@ Actualización de plantillas.
 ## Nota 519
 
 Actualización de alertas.
+
+## Nota 290
+
+Actualización de informes.
