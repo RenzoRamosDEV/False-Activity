@@ -158,3 +158,7 @@ Actualización de alertas.
 ## Nota 290
 
 Actualización de informes.
+
+## Nota 720
+
+Actualización de recursos.
