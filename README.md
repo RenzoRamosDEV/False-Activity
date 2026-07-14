@@ -162,3 +162,7 @@ Actualización de informes.
 ## Nota 720
 
 Actualización de recursos.
+
+## Nota 379
+
+Actualización de ajustes.
