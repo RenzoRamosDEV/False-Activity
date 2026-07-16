@@ -170,3 +170,11 @@ Actualización de ajustes.
 ## Nota 191
 
 Actualización de recursos.
+
+## Nota 657
+
+Actualización de plantillas.
+
+## Nota 554
+
+Actualización de sesiones.
