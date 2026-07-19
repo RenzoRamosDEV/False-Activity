@@ -178,3 +178,11 @@ Actualización de plantillas.
 ## Nota 554
 
 Actualización de sesiones.
+
+## Nota 907
+
+Actualización de ajustes.
+
+## Nota 422
+
+Actualización de inventario.
