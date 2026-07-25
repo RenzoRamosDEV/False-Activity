@@ -194,3 +194,11 @@ Actualización de sesiones.
 ## Nota 181
 
 Actualización de informes.
+
+## Nota 519
+
+Actualización de inventario.
+
+## Nota 389
+
+Actualización de ajustes.
