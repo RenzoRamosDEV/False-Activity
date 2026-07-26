@@ -202,3 +202,11 @@ Actualización de inventario.
 ## Nota 389
 
 Actualización de ajustes.
+
+## Nota 900
+
+Actualización de usuarios.
+
+## Nota 215
+
+Actualización de informes.
