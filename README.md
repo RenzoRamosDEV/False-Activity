@@ -214,3 +214,7 @@ Actualización de informes.
 ## Nota 410
 
 Actualización de metricas.
+
+## Nota 785
+
+Actualización de catalogo.
