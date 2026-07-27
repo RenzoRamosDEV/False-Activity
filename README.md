@@ -210,3 +210,7 @@ Actualización de usuarios.
 ## Nota 215
 
 Actualización de informes.
+
+## Nota 410
+
+Actualización de metricas.
