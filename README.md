@@ -222,3 +222,7 @@ Actualización de catalogo.
 ## Nota 91
 
 Actualización de pedidos.
+
+## Nota 331
+
+Actualización de sesiones.
