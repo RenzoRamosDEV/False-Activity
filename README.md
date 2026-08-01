@@ -226,3 +226,7 @@ Actualización de pedidos.
 ## Nota 331
 
 Actualización de sesiones.
+
+## Nota 809
+
+Actualización de metricas.
