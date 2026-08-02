@@ -234,3 +234,7 @@ Actualización de metricas.
 ## Nota 92
 
 Actualización de informes.
+
+## Nota 71
+
+Actualización de plantillas.
