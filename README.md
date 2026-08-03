@@ -242,3 +242,7 @@ Actualización de plantillas.
 ## Nota 139
 
 Actualización de registros.
+
+## Nota 78
+
+Actualización de ajustes.
