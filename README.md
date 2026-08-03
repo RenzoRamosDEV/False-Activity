@@ -238,3 +238,7 @@ Actualización de informes.
 ## Nota 71
 
 Actualización de plantillas.
+
+## Nota 139
+
+Actualización de registros.
