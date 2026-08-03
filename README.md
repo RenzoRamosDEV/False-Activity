@@ -246,3 +246,7 @@ Actualización de registros.
 ## Nota 78
 
 Actualización de ajustes.
+
+## Nota 384
+
+Actualización de informes.
