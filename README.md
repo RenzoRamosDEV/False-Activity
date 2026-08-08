@@ -250,3 +250,7 @@ Actualización de ajustes.
 ## Nota 384
 
 Actualización de informes.
+
+## Nota 914
+
+Actualización de usuarios.
