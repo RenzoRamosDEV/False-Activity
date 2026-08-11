@@ -254,3 +254,7 @@ Actualización de informes.
 ## Nota 914
 
 Actualización de usuarios.
+
+## Nota 848
+
+Actualización de plantillas.
