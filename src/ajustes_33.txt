@@ -1,1 +1,2 @@
 Registro de alertas: valores 968 y 806.
+Línea añadida en el registro 9377

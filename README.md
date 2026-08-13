@@ -258,3 +258,15 @@ Actualización de usuarios.
 ## Nota 848
 
 Actualización de plantillas.
+
+## Nota 582
+
+Actualización de sesiones.
+
+## Nota 428
+
+Actualización de alertas.
+
+## Nota 256
+
+Actualización de catalogo.
