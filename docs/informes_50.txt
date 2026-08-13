@@ -1,2 +1,0 @@
-Registro de pedidos: valores 768 y 440.
-Línea añadida en el registro 3123
