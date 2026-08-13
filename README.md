@@ -262,3 +262,7 @@ Actualización de plantillas.
 ## Nota 582
 
 Actualización de sesiones.
+
+## Nota 428
+
+Actualización de alertas.
