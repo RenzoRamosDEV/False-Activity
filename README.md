@@ -258,3 +258,7 @@ Actualización de usuarios.
 ## Nota 848
 
 Actualización de plantillas.
+
+## Nota 582
+
+Actualización de sesiones.
