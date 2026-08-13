@@ -266,3 +266,7 @@ Actualización de sesiones.
 ## Nota 428
 
 Actualización de alertas.
+
+## Nota 256
+
+Actualización de catalogo.
