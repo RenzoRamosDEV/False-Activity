@@ -270,3 +270,7 @@ Actualización de alertas.
 ## Nota 256
 
 Actualización de catalogo.
+
+## Nota 139
+
+Actualización de pedidos.
