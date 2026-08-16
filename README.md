@@ -274,3 +274,7 @@ Actualización de catalogo.
 ## Nota 139
 
 Actualización de pedidos.
+
+## Nota 875
+
+Actualización de sesiones.
