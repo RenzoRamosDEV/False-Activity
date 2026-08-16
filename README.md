@@ -278,3 +278,7 @@ Actualización de pedidos.
 ## Nota 875
 
 Actualización de sesiones.
+
+## Nota 846
+
+Actualización de alertas.
