@@ -1,1 +1,2 @@
 Registro de alertas: valores 970 y 866.
+Línea añadida en el registro 4969
