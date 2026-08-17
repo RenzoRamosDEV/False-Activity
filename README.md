@@ -282,3 +282,7 @@ Actualización de sesiones.
 ## Nota 846
 
 Actualización de alertas.
+
+## Nota 612
+
+Actualización de sesiones.
