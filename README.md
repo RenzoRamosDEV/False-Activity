@@ -290,3 +290,7 @@ Actualización de sesiones.
 ## Nota 129
 
 Actualización de metricas.
+
+## Nota 73
+
+Actualización de sesiones.
