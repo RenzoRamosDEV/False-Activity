@@ -1,1 +1,2 @@
 Registro de alertas: valores 188 y 886.
+Línea añadida en el registro 7510
