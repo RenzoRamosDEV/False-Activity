@@ -286,3 +286,7 @@ Actualización de alertas.
 ## Nota 612
 
 Actualización de sesiones.
+
+## Nota 129
+
+Actualización de metricas.
