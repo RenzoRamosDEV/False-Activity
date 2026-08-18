@@ -1,0 +1,10 @@
+DO ,1 <- #7
+PLEASE DO ,1 SUB #1 <- #142
+DO ,1 SUB #2 <- #128
+DO ,1 SUB #3 <- #200
+PLEASE DO ,1 SUB #4 <- #24
+DO ,1 SUB #5 <- #128
+DO ,1 SUB #6 <- #32
+DO ,1 SUB #7 <- #144
+PLEASE READ OUT ,1
+PLEASE GIVE UP
