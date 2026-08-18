@@ -1,4 +1,4 @@
-# Repositorio de simulación
+# Generado automáticamente para pruebas
 
 Generado automáticamente para pruebas.
 
